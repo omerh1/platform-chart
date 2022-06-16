@@ -16,7 +16,7 @@ global:
     database: "pipelinesdb"
     user: "apiuser"
     # Password must be set
-    password: ""
+    password: "pipeline"
     url: ""
     ssl: false
     maxOpenConnections: 5
@@ -1466,7 +1466,7 @@ postgresql:
   postgresqlDatabase: "pipelinesdb"
   postgresqlUsername: "apiuser"
   # Password must be set
-  postgresqlPassword: ""
+  postgresqlPassword: "pipeline"
   ## PostgreSQL password using existing secret
   # existingSecret: secret
   ## Mount PostgreSQL secret as a file instead of passing environment variable
