@@ -1,0 +1,15 @@
+dependencies:
+- name: postgresql
+  repository: https://charts.jfrog.io/
+  version: 10.3.18
+- name: rabbitmq
+  repository: https://charts.jfrog.io/
+  version: 8.11.4
+- name: redis
+  repository: https://charts.jfrog.io/
+  version: 12.10.1
+- name: vault
+  repository: https://charts.jfrog.io/
+  version: 0.16.1
+digest: sha256:eb5edf3ab487a4c1483ba20a39b07b67bf584215823ccddb4aae73d90a4f3cef
+generated: "2022-03-08T09:03:04.443567+05:30"
