@@ -220,7 +220,7 @@ pipelines:
       port: 5432
       database: "pipelinesdb"
       user: "apiuser"
-      password: "pipeline"
+      password: "postgres"
   pipelines:
     api:
       externalUrl: http://pipelines.test.com
