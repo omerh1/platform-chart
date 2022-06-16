@@ -1,0 +1,12 @@
+xray:
+  enabled: false
+insight:
+  enabled: false
+distribution:
+  enabled: false
+pipelines:
+  enabled: true
+rabbitmq:
+  enabled: false
+redis:
+  enabled: true
