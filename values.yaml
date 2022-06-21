@@ -163,7 +163,7 @@ artifactory:
     #   dataKey:
 
 xray:
-  enabled: false
+  enabled: true
   unifiedUpgradeAllowed: true
   postgresql:
     enabled: false
