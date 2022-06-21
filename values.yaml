@@ -163,7 +163,7 @@ artifactory:
     #   dataKey:
 
 xray:
-  enabled: true
+  enabled: false
   unifiedUpgradeAllowed: true
   postgresql:
     enabled: false
@@ -185,7 +185,7 @@ xray:
       erlangCookie: secretcookie
 
 distribution:
-  enabled: true
+  enabled: false
   unifiedUpgradeAllowed: true
   postgresql:
     enabled: false
@@ -195,7 +195,7 @@ distribution:
     password: password
 
 insight:
-  enabled: true
+  enabled: false
   unifiedUpgradeAllowed: true
   postgresql:
     enabled: false
