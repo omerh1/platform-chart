@@ -16,7 +16,7 @@ dependencies:
 - condition: artifactory.enabled
   name: artifactory
   repository: https://charts.jfrog.io/
-  version: 107.38.10
+  version: 107.39.4
 - condition: xray.enabled
   name: xray
   repository: https://charts.jfrog.io/
