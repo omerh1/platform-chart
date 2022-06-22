@@ -1,5 +1,5 @@
 apiVersion: v2
-appVersion: 7.38.10
+appVersion: 7.39.4
 dependencies:
 - condition: postgresql.enabled
   name: postgresql

@@ -10,7 +10,7 @@ dependencies:
   version: 12.10.1
 - name: artifactory
   repository: https://charts.jfrog.io/
-  version: 107.38.10
+  version: 107.39.4
 - name: xray
   repository: https://charts.jfrog.io/
   version: 103.49.0
