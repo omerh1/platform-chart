@@ -210,7 +210,7 @@ insight:
       xmx: "2g"
 
 pipelines:
-  enabled: true
+  enabled: false
   unifiedUpgradeAllowed: true
   postgresql:
     enabled: false
